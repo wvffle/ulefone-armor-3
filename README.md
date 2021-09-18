@@ -6,7 +6,7 @@ The device is `arm64` `a-only`
 - https://forum.xda-developers.com/t/official-blissroms-q-mod-bless.4138687/
 - https://forum.xda-developers.com/t/gsi-10-lineageos-17-x-gsi-all-archs.4004673/
 
-### Fixes
+#### Fixes
 - Long boot time can be fixed with `echo "ro.audio.ignore_effects=true" >> /system/build.prop`
 
 ### Android R
